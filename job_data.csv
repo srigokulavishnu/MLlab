@@ -1,0 +1,11 @@
+CGPA,Interactive,Practical,Communication,JobOffer
+>=9,Y,VG,G,Y
+>=8,N,G,M,Y
+>=9,N,AVG,P,N
+<8,N,AVG,G,N
+>=8,Y,G,M,Y
+>=9,Y,G,M,Y
+<8,Y,G,P,N
+>=9,N,VG,G,Y
+>=8,Y,G,G,Y
+>=8,Y,AVG,G,Y
